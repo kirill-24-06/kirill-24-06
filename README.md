@@ -5,13 +5,13 @@
 </div>
 
 <div id = "socials" align = "center">
-    <a href = "t.me/kirillp3300">
+    <a href = "https://t.me/kirillp3300">
          <img src = "https://img.shields.io/badge/Telegram-%20blue%3F?style=flat&logo=telegram&logoColor=white&color=blue" alt ="Telegram"/>
     </a>
     <a href = "https://wa.me/79256393586">
          <img src = "https://img.shields.io/badge/WhatsApp-green%3F?style=flat&logo=whatsApp&logoColor=white" alt ="WhatsApp"/>
     </a>
-    <a href = "kirill.p.pavlov@gmail.com">
+    <a href = "mailto:kirill.p.unity@gmail.com">
          <img src = "https://img.shields.io/badge/Gmail-red%3F?style=flat&logo=gmail&logoColor=white&color=red" alt ="Gmail"/>
     </a>
 
