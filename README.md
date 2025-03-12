@@ -23,9 +23,7 @@
 
 - 🌱 I’m currently learning Unity
 
-- :hammer_and_wrench: I’m currently working on [StarfighterCombat](https://github.com/kirill-24-06/Starfighter-Combat)
-
-<!-- - :scroll: My [CV](link)  -->
+- :hammer_and_wrench: I’m currently working on [GridBuildSystem](https://github.com/kirill-24-06/Grid-System)
 
 ### MyProjects:
 
